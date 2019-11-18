@@ -1,0 +1,27 @@
+{
+  "name": "bushfires-nsp-map",
+  "version": "1.0.0",
+  "description": "This website will offer a quick way to find Neighbourhood safer places near you no matter what state your are in.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Devs-Against/bushfires-nsp-map.git"
+  },
+  "author": "Dali Haeusler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Devs-Against/bushfires-nsp-map/issues"
+  },
+  "homepage": "https://github.com/Devs-Against/bushfires-nsp-map#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "env": "0.0.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11"
+  }
+}
